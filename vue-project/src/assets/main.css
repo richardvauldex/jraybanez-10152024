@@ -3,3 +3,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+.d-flex{
+  display: flex;
+}
+.space-between{
+  justify-content: space-between;
+}
+.gap1{
+  gap: 1em;
+}
+.gap05{
+  gap: 0.5em;
+}
+.p1{
+  padding: 1em;
+}
+.flex-col{
+  display: flex;
+  flex-direction: column;
+}
+.border-black-1{
+  border: 1px solid black;
+}
+button{
+  width: fit-content;
+  height: fit-content;
+}
